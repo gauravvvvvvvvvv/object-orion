@@ -1,7 +1,4 @@
-# object-orion
-A real-time object detection model trained on Pascal VOC.
-
-# Object Orion
+# Object Orion v1.0
 
 Object Orion is a machine learning model for real-time object detection, trained on the Pascal VOC dataset. Named after the constellation Orion, it is designed to identify 20 classes of objects efficiently, with the flexibility to expand to more classes in future versions.
 
