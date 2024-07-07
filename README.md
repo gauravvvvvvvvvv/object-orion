@@ -14,7 +14,7 @@ Object Orion is a machine learning model for real-time object detection, trained
 
 ## Getting Started
 
-### Creating Predictions with Object Orion
+### Creating Predictions with Object Orion (For Using with opencv-python)
 
 To use Object Orion for object detection in your own applications, follow these steps to create a function for making predictions:
 
